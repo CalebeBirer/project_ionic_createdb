@@ -1,0 +1,7 @@
+{
+  "name": "angular_sql",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
